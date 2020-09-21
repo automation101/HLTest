@@ -1,5 +1,5 @@
 # HLTest
-# AutomationAssessment
+
 # Instruction to clone 
 From Eclipse go to File - Import - Import Wizard - Git - Project From Git - Next - Clone URI
 or you can download as zip and do File - open project from file system.
