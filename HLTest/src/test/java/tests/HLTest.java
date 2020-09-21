@@ -33,7 +33,7 @@ public class HLTest extends BaseTest {
 		
 	}
 	
-	// Checking for fail , by making number =35
+	// Checking for fail , by making number = -15
 	
 		
 	int increasenumber=Integer.parseInt(riskvalue)+10; 
